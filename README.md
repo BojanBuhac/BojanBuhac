@@ -46,18 +46,6 @@ My primary focus is on enabling enterprise-grade Copilot adoption and governance
 - **Email**: bojan.buhac@microsoft.com  
 - **GitHub**: [github.com/BojanBuhac](https://github.com/BojanBuhac)
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojanBuhac&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BojanBuhac&layout=compact)
-
----
-
-## 🎯 Focus Areas & OKRs
-- **Enterprise Copilot Adoption**: Published Copilot audit tool to accelerate customer awareness.
-- **Governance Enablement**: Released SharePoint & PMO Power BI accelerators to simplify reporting at scale.
-- **Community Enablement**: Partner with peers and customers to evangelize best practices and secure adoption success.
-
 ---
 
 *📌 Feel free to check out my repositories, star projects, or reach out!*
