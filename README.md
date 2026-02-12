@@ -2,7 +2,6 @@
 **Senior Cloud Solution Architect @ Microsoft**  
 Passionate about driving AI adoption, enterprise business solutions, and modern collaboration.
 
----
 
 ## 👨‍💼 About Me
 - Senior Cloud Solution Architect in the CS ABS GSA team at Microsoft, specializing in Microsoft 365 and Copilot-powered innovation.
@@ -10,16 +9,12 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 - Advocate for business value through efficient tooling: Power Platform and Copilot Studio.
 - Believe in data-driven insights, structured governance playbooks, and clear executive alignment to accelerate digital transformation.
 
----
-
 ## 🧰 Technologies & Tools
 - **AI & Copilot**: M365 Copilot, Copilot Chat, Copilot Studio agents  
 - **Cloud Platforms**: Azure, Microsoft 365,
 - **Collaboration / Governance**: SharePoint Online, Power Platform  
 - **Scripting & Automation**: PowerShell, Power Automate, REST/Graph API  
 - **Data & Reporting**: Power BI, Purview Audit, Entra ID reporting, Viva Advanced Analytics
-
----
 
 ## 🚀 Featured Projects
 
@@ -38,8 +33,6 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 - Budget & contract tracking solution integrated with Power BI.  
 - Helps project managers and finance owners manage financial execution in Teams.
 
----
-
 ## 🔑 Microsoft Copilot Focus  
 My primary focus is on enabling enterprise-grade Copilot adoption and governance:
 
@@ -48,14 +41,10 @@ My primary focus is on enabling enterprise-grade Copilot adoption and governance
 3. **Champion Enablement**: Helps M365 Champions monitor feature uptake, identify adoption gaps, and drive COE strategies.
 4. **Customizability**: Policies for anonymization, department breakdowns, and flexible time frames allow adaptation to privacy and organizational needs.
 
----
-
 ## 📫 Get in Touch  
 - **LinkedIn**: https://linkedin.com/in/bbuhac  
 - **Email**: bojan.buhac@microsoft.com  
 - **GitHub**: [github.com/BojanBuhac](https://github.com/BojanBuhac)
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojanBuhac&show_icons=true&theme=default)
