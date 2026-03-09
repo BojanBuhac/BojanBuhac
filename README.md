@@ -4,7 +4,7 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 
 
 ## 👨‍💼 About Me
-- Senior Cloud Solution Architect in the CS ABS GSA team at Microsoft, specializing in Microsoft 365 and Copilot-powered innovation.
+- Senior Cloud Solution Architect in the CS ABS GSA team at Microsoft, specialized in Microsoft 365 and Copilot-powered innovation.
 - 20+ years of experience enabling enterprise customers to adopt modern workplace technologies, with a strong focus on governance, automation, and platform acceleration.
 - Advocate for business value through efficient tooling: Power Platform and Copilot Studio.
 - Believe in data-driven insights, structured governance playbooks, and clear executive alignment to accelerate digital transformation.
