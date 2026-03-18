@@ -18,7 +18,7 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 
 ## 🚀 Featured Projects
 
-### [**M365-Copilot-Audit-Report**](https://github.com/BojanBuhac/M365-Copilot-Audit-Report)  
+### [**M365 Copilot Audit Report**](https://github.com/BojanBuhac/M365-Copilot-Audit-Report)  
 (Microsoft 365 Copilot auditing & adoption dashboard)  
 - PowerShell scripts + Power BI that track Copilot usage, licensing, interaction trends and organizational adoption.  
 - Includes anonymization options and manager hierarchy insights-ideal for enterprise Champions/COE.
@@ -28,12 +28,12 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 - PowerApp solution that helps AI council team to intake and monitor AI agents
 - Includes review calendar and reporting features
 
-### [**M365-SharePoint-Sites-Report**](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report)  
+### [**M365 SharePoint Sites Report**](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report)  
 (SharePoint Online usage & governance overview)  
 - Power BI report offering storage, site types, ownership, file counts, and slicers for insights.  
 - Streamlines governance by surfacing top sites and usage trends.
 
-### [**PMO-Accelerator-Finances**](https://github.com/BojanBuhac/PMO-Accelerator-Finances)  
+### [**PMO Accelerator Finances**](https://github.com/BojanBuhac/PMO-Accelerator-Finances)  
 (Budgeting add-on for Project for the Web Accelerator)  
 - Budget & contract tracking solution integrated with Power BI.  
 - Helps project managers and finance owners manage financial execution in Teams.
