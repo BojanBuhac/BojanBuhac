@@ -38,15 +38,9 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 - Budget & contract tracking solution integrated with Power BI.  
 - Helps project managers and finance owners manage financial execution in Teams.
 
-## 🔑 Microsoft Copilot Focus  
-My primary focus is on enabling enterprise-grade Copilot adoption and governance:
-
-1. **Audit & Adoption Analytics**: The *M365-Copilot-Audit-Report* provides visibility into usage patterns, license distribution, and manager-level adoption.
-2. **Integration Ready**: Designed to plug directly into Azure AD (Entra), Purview, and Security Reader roles-supports GCC and commercial tenants.
-3. **Champion Enablement**: Helps M365 Champions monitor feature uptake, identify adoption gaps, and drive COE strategies.
-4. **Customizability**: Policies for anonymization, department breakdowns, and flexible time frames allow adaptation to privacy and organizational needs.
 
 ## 📫 Get in Touch  
+
 - **LinkedIn**: https://linkedin.com/in/bbuhac  
 - **Email**: bojan.buhac@microsoft.com  
 - **GitHub**: [github.com/BojanBuhac](https://github.com/BojanBuhac)
