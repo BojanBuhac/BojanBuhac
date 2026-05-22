@@ -23,7 +23,7 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 - PowerShell scripts + Power BI that track Copilot usage, licensing, interaction trends and organizational adoption.  
 - Includes anonymization options and manager hierarchy insights-ideal for enterprise Champions/COE.
 
-### [**AI Agent Central**](https://github.com/BojanBuhac/AI-Agent-Central)
+### [**AI Agent Central**](https://bojanbuhac.github.io/AI-Agent-Central/)
 (AI Agents lifecycle governance repository)
 - PowerApp solution that helps AI council team to intake and monitor AI agents
 - Includes review calendar and reporting features
