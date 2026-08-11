@@ -18,15 +18,21 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 
 ## 🚀 Featured Projects
 
-### [**M365 Copilot Audit Report**](https://github.com/BojanBuhac/M365-Copilot-Audit-Report)  
-(Microsoft 365 Copilot auditing & adoption dashboard)  
-- PowerShell scripts + Power BI that track Copilot usage, licensing, interaction trends and organizational adoption.  
-- Includes anonymization options and manager hierarchy insights-ideal for enterprise Champions/COE.
+### [**Cowork Plans**](https://bojanbuhac.github.io/Cowork-plans/)
+(Self-service way to manage their Copilot Cowork plan)
+- Cowork Plans puts plan visibility, requests, pauses and approvals in one simple app — so business users choose 
+the plan that fits the way they work, managers approve in a click, and administrators keep everything aligned 
+with organisational policy.
 
 ### [**AI Agent Central**](https://bojanbuhac.github.io/AI-Agent-Central/)
 (AI Agents lifecycle governance repository)
 - PowerApp solution that helps AI council team to intake and monitor AI agents
 - Includes review calendar and reporting features
+
+### [**M365 Copilot Audit Report**](https://github.com/BojanBuhac/M365-Copilot-Audit-Report)  
+(Microsoft 365 Copilot auditing & adoption dashboard)  
+- PowerShell scripts + Power BI that track Copilot usage, licensing, interaction trends and organizational adoption.  
+- Includes anonymization options and manager hierarchy insights-ideal for enterprise Champions/COE.
 
 ### [**M365 SharePoint Sites Report**](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report)  
 (SharePoint Online usage & governance overview)  
