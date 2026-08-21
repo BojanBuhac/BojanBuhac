@@ -18,6 +18,11 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 
 ## 🚀 Featured Projects
 
+### [**Copilot Studio Classic Experience Guard**](https://bojanbuhac.github.io/Copilot-Studio-Classic-Experience-Guard/)
+(Keep Copilot Studio on the classic experience)
+- A lightweight managed browser extension for organizations that need a controlled transition to the new Copilot Studio experience.
+- It enforces the classic shell and removes user-facing promotion controls for the new experience.
+
 ### [**Cowork Plans**](https://bojanbuhac.github.io/Cowork-plans/)
 (Self-service way to manage their Copilot Cowork plan)
 - Cowork Plans puts plan visibility, requests, pauses and approvals in one simple app — so business users choose 
