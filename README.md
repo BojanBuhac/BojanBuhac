@@ -20,7 +20,8 @@ Passionate about driving AI adoption, enterprise business solutions, and modern 
 
 ### [**Cowork Model × Effort × Cost × Result Comparison Analysis**](https://bojanbuhac.github.io/Cowork-Comparison-Analysis/)
 (Copilot Cowork · performance & cost study · Universal Test Matrix)
-The matrix covers ten business tasks across eight industries and ten departments, each run on three models and three effort levels (90 runs). 45 runs are complete so far — FS Account Plan, MFG Supply Risk, HLS Workforce, RET Campaign, PS Budget Review — and the findings below use only those. They will be refreshed as the remaining tasks are run.
+- The matrix covers ten business tasks across eight industries and ten departments, each run on three models and three effort levels (90 runs)
+- 45 runs are complete so far — FS Account Plan, MFG Supply Risk, HLS Workforce, RET Campaign, PS Budget Review — and the findings below use only those.
 
 ### [**Cowork Plans**](https://bojanbuhac.github.io/Cowork-plans/)
 (Self-service way to manage their Copilot Cowork plan)
